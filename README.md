@@ -1,5 +1,5 @@
 # Hi, I'm Wahid 👋
-
+ 
 Full-stack developer and designer in New York City. Warm interfaces, careful details, a lot of cappuccinos.
 
 <a href="https://wahidkamruddin.com"><img src="https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a> <a href="mailto:wahidkamruddin101@gmail.com"><img src="https://img.shields.io/badge/Email-0969da?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/wahid-kamruddin/"><img src="https://img.shields.io/badge/LinkedIn-0969da?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/wahidkamruddin/"><img src="https://img.shields.io/badge/Instagram-0969da?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
